@@ -1,3 +1,5 @@
+// Exercise 8
+
 let name = process.argv[2];
 let age = process.argv[3];
 let eyes = process.argv[4];
