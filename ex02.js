@@ -1,3 +1,5 @@
+// Exercise 2
+
 // This is a comment, everything after is ignored.
 
 console.log("I am the Code");
