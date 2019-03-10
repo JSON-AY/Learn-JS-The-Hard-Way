@@ -1,3 +1,5 @@
+// Exercise 7
+
 // REQUIRES: npm install readline-sync
 // readline-sync is a small library that someone else wrote.
 // There are a lot of these libraries availiable that other people
