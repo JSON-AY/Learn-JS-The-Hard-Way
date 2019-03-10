@@ -1,5 +1,6 @@
 // Exercise 10: Files, Args, Variables, Oh My
 
+
 const fs = require('fs');
 
 let file_to_open = process.argv[2];
