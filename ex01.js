@@ -1,3 +1,5 @@
+// Exercise 1
+
 console.log("You are writing text to your screen.")
 console.log("This is called 'standard output'.")
 console.log("This stuff in the () is a string.")
