@@ -1,4 +1,4 @@
-// Exercise 13: Creating a Module
+// Exercise 13: Creating your own module
 // This exercise demonstrates how to create your own JS Module. 
 
 const area = (r) => Math.PI * r ** 2;
