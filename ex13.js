@@ -1,3 +1,5 @@
+// Exercise 13: Creating a JS Module
+
 const geometry = require('./geometry');
 
 let area51 = geometry.area(2.8);

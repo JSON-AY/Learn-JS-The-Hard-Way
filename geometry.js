@@ -1,3 +1,6 @@
+// Exercise 13: Creating a Module
+// This exercise demonstrates how to create your own JS Module. 
+
 const area = (r) => Math.PI * r ** 2;
 const circumference = (r) => 2 * Math.PI * r;
 
