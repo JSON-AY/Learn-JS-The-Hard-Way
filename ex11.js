@@ -7,7 +7,7 @@ const printPerson = (name, age) => {
 // The above code is essentially taking a constant and making it a function.
 // We call the function printPerson and give it two parameters. 
 // We don't actually run the code underneath it but instead, we
-// pack up the console.log code into the function. This is helpful because
+// pack the console.log code into the function. This is helpful because
 // now we can continually call on that function and feed different data into,
 // it without needing to make an individual function for each piece of data.
 
