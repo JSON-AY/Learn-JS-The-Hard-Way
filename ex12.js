@@ -1,5 +1,6 @@
 // Exercise 12: Functions, Files, Variables
 
+
 const fs = require('fs');
 
 const print_lines = (err, data) => {
