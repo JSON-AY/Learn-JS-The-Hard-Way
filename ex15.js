@@ -29,7 +29,7 @@ if (y === 100) {
         console.log("log 2", x, y);
     }
 } else {
-    if(x >10) {
+    if(x > 10) {
         console.log("log 3", x, y);
     } else {
         console.log("log 4", x, y);
