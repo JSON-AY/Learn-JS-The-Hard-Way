@@ -64,7 +64,7 @@ for(let i = 0; i < pigments.length; i++) {
 // but this is the easiest of all
 
 for(paint of pigments) {
-    console.log(`for-in ${paint}`);
+    console.log(`for-of ${paint}`);
 }
 
 /* To setup a while-loop you need to remember:
